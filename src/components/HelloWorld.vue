@@ -8,12 +8,12 @@
   <p v-show="isNinja">
   <img src='https://img.cinemablend.com/filter:scale/quill/d/9/5/a/c/9/d95ac9d6f0acd56e12b9452301c763cd1aeffe51.jpg?fw=1200' />
   </p>
-  <p v-show="!isNinja"> <img src='https://cdn.gamer-network.net/2019/usgamer/iron_man_vr.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/65/iron-man-vr-delayed-to-may-taking-the-avengers-old-release-date.jpg'/></p>
+  <p v-show="!isNinja"> <img src='https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg'/></p>
   </div> <div class="col-lg-4 col-md-6">
    <button class="btn btn-dark button1" v-on:click="isCaptain = !isCaptain">Captain America</button>
   <p v-show="isCaptain"><img src='https://images.indianexpress.com/2019/09/steve-rogers-759.jpg' /></p>
   <p v-show="!isCaptain">
-   <img src= 'https://cdn.goliath.com/eyJidWNrZXQiOiJwdWItc3RvcmFnZSIsImtleSI6ImdvbGlhdGgvd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDUvQ2FwdGFpbi1BbWVyaWNhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODk1LCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIiLCJiYWNrZ3JvdW5kIjp7InIiOjAsImciOjAsImIiOjAsImFscGhhIjoxfX19fQ==' /></p></div>
+   <img src= 'https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/0a823cb0-01a9-4835-a348-c64187783ccb/d37cb96c-805c-4aa2-9f2f-e62d9eb814c7/1280x720/match/image.jpg' /></p></div>
    <div class="col-lg-4 col-md-6">
     <button class="btn btn-dark button1" v-on:click="isWidow = !isWidow">Black Widow</button>
   <p v-show="isWidow"><img src='https://static2.srcdn.com/wordpress/wp-content/uploads/2019/07/natasha-romanoff-black-widow-captain-america-civil-war.jpg?q=50&fit=crop&w=740&h=370' /></p>
@@ -35,7 +35,7 @@
     <button class="btn btn-dark button1" v-on:click="isMarvel = !isMarvel">Captain Marvel</button>
   <p v-show="isMarvel"><img src='https://cdn.onebauer.media/one/empire-images/features/5c868cb4133d503e3a47ab88/captain-marvel-ss-main.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg'/></p>
   <p v-show="!isMarvel">
-   <img src='https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainmarvel_lob_mas_mob_03_0.jpg'/></p></div>
+   <img src='https://cdn.mos.cms.futurecdn.net/Yv4zzbcAHqW6U9FFYdvGdL-1200-80.jpg'/></p></div>
   </div> <!-- end of row -->
   </div>
 </div>
