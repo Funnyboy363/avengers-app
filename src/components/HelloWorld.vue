@@ -23,7 +23,7 @@
   <div class="row">
     <div class="col-lg-4 col-md-6">
       <button class="btn btn-dark button1" v-on:click="isThor = !isThor">Thor</button>
-  <p v-show="isThor"><img src= 'https://cdn1.thr.com/sites/default/files/2017/11/thorragnarok59e8057250eb8-h_2017.jpg' /></p>
+  <p v-show="isThor"><img src= 'https://cdn.marvel.com/content/1x/004tho_ons_mas_mob_04.jpg' /></p>
   <p v-show="!isThor">
    <img src='https://img1.looper.com/img/gallery/endgame-directors-reveal-how-hemsworth-reacted-to-fat-thor/intro-1557329348.jpg'/></p></div>
   <div class="col-lg-4 col-md-6">
@@ -33,7 +33,7 @@
    <img src='https://cornellsun.com/wp-content/uploads/2018/07/636607239522109399-antmanandthewasp5a727bde19d45.jpg'/></p></div>
     <div class="col-lg-4 col-md-6">
     <button class="btn btn-dark button1" v-on:click="isMarvel = !isMarvel">Captain Marvel</button>
-  <p v-show="isMarvel"><img src='https://cdn.onebauer.media/one/empire-images/features/5c868cb4133d503e3a47ab88/captain-marvel-ss-main.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg'/></p>
+  <p v-show="isMarvel"><img src='https://cdn.marvel.com/content/1x/captainmarvel_lob_mas_mob_03_0.jpg'/></p>
   <p v-show="!isMarvel">
    <img src='https://cdn.mos.cms.futurecdn.net/Yv4zzbcAHqW6U9FFYdvGdL-1200-80.jpg'/></p></div>
   </div> <!-- end of row -->
